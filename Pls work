@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title></title>
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <script type="text/javascript">
+
+   var mario = {
+  description:"Small and jumpy. Likes princesses.",
+  height: 10,
+  weight: 3,
+  speed: 12 
+  
+  
+}
+ 
+  var bowser = {
+  description: "Big and green, Hates princesses.",
+  height: 16,
+  weight: 6,
+  speed: 4
+  
+}
+
+alert(mario.description);
+
+alert(bowser.description);
+  
+  </script>
+</body>
+</html>  
+
